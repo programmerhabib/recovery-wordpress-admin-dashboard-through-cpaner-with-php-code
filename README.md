@@ -1,1 +1,1 @@
-# recovery-wordpress-admin-dashboard-through-cpaner-with-php-code
+# recovery-wordpress-admin-dashboard-through-cpanel-with-php-code
